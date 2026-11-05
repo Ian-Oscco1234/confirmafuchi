@@ -5,4 +5,4 @@ if x > 10 :
 elif (x < 10):
     print("Es menor que 10")
 else:
-    print("xd")
+    print("NO SE")
