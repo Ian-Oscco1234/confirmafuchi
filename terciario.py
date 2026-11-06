@@ -1,1 +1,1 @@
-print("TTerciario")
+print("ola homero koreano")
